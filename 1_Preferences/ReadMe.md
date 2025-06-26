@@ -92,37 +92,37 @@
 ![9](pic/ToolInstall09.PNG)
 
 
-10. 다음은 설치하는 Components를 선택하는 화면입니다. 하드디스크의 용량이 많으면 다 설치하셔도 되지만, 아래 그림과 같이 필요한 최소 부분은 꼭 선택하시기 바랍니다. 
+10. 다음은 소프트웨어 설치하는 위치입니다. 아래 그림과 같이 기본 설정 위치에 설치합니다. 
 
 
 ![10](pic/ToolInstall10.PNG)
 
 	
-11.  위에서 Next를 누르면 소프트웨어 설치가 진행됩니다. 
+11. 다음은 설치하는 Components를 선택하는 화면입니다. 하드디스크의 용량이 많으면 다 설치하셔도 되지만, 아래 그림과 같이 필요한 최소 부분은 꼭 선택하시기 바랍니다. 
 	
 ![11](pic/ToolInstall11.PNG)
 	
-12.  설치가 완료되면 아래의 창이 나타나는데, Finish를 눌러 소프트웨어의 설치를 끝마치고, USB Blaster II의 드라이버를 설치합니다.
+12.  위에서 Next를 누르면 소프트웨어 설치가 진행됩니다. 
+	
+![12](pic/ToolInstall12.PNG)
+	
+13.  설치가 완료되면 아래의 창이 나타나는데, Finish를 눌러 소프트웨어의 설치를 끝마치고, USB Blaster II의 드라이버를 설치합니다.
 
  
      여기에서 USB Blaster는 프로그래밍 하드웨어 장치입니다.
 
-	
-![12](pic/ToolInstall12.PNG)
-	
-13.  다음과 같이 USB Blaster II 드라이버를 설치합니다. 
-	
 ![13](pic/ToolInstall13.PNG)
 	
-14.  드라이버 설치를 끝마치면 Quartus Prime 소프트웨어가 실행되는데, 최초 1회에 한해서 아래의 그림처럼 Run the Quartus Prime software를 선택합니다. 
+14.  다음과 같이 USB Blaster II 드라이버를 설치합니다. 
 	
 ![14](pic/ToolInstall14.PNG)
 	
-15.  아래는 Quartus Prime이 실행되었을 때의 첫 화면입니다. 
+15.  드라이버 설치를 끝마치면 Quartus Prime 소프트웨어가 실행되는데, 최초 1회에 한해서 아래의 그림처럼 Run the Quartus Prime software를 선택합니다. 
 	
 ![15](pic/ToolInstall15.PNG)
 	
-16.  a	
+16.   아래는 Quartus Prime이 실행되었을 때의 첫 화면입니다. 
+		
 	
 ![16](pic/ToolInstall16.PNG)
 	
