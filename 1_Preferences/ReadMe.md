@@ -18,8 +18,8 @@
 
 
 
+### 설치 파일 다운로드 
 
-** 설치 파일 다운로드 **
 
 1. 홈페이지에 접속합니다. [https://www.altera.com](https://www.altera.com)
 
@@ -53,19 +53,47 @@ Lite Edition이 무료 소프트웨어입니다.
 ![4](pic/ToolInstall04.PNG)
 
 
-4. 
+5. 다운로드 받을 버전을 20.1.1로 선택합니다. 
 
-수식
+이것은 시뮬레이션 소프트웨어를 ModelSim으로 하기 위한 목적입니다. 
 
-$2^2 + 3^2 = 13$
+그 이상의 소프트웨어를 사용할 경우에는 별도의 License의 설정이 필요하기 때문에 이 20.1.1 버전을 반드시 설치하셔야 합니다. 
 
----
 
-링크 걸기
-[링크](https://github.com/hanback-lab/SACT)
 
---- 
 
-사진 추가
+![5](pic/ToolInstall05.PNG)
 
-![test](res/test.jpg)
+
+6. Multiple Download의 Download를 선택하여 소프트웨어를 Download 받습니다. 
+
+
+다운로드 받는 총 용량은 5.9GB 입니다. 
+
+
+![6](pic/ToolInstall06.PNG)
+
+
+7. Download 받으면 Chrome의 경우 아래 그림과 같이 창의 오른쪽 위부분에 download history에이 파일이 나타납니다. 
+
+
+![7](pic/ToolInstall07.PNG)
+
+
+8. 다운로드 받은 Quartus-lite-20.1.1.720-windows.tar 파일의 압축을 풀고, setup.bat 파일을 실행시켜 설치를 진행합니다. 
+
+
+![8](pic/ToolInstall08.PNG)
+
+
+9. 설치를 하면, 다음과 같은 License Agreement 창이 나타나는데, I accept the agreement를 선택 후, Next 버튼을 누릅니다. 
+
+
+![9](pic/ToolInstall09.PNG)
+
+
+10. 다음은 소프트웨어 설치하는 위치입니다. 아래 그림과 같이 기본 설정 위치에 설치합니다 
+
+
+!(pic/ToolInstall10.PNG)
+
