@@ -126,11 +126,4 @@
 	
 ![16](pic/ToolInstall16.PNG)
 	
-17.  a	
-	
-![17](pic/ToolInstall17.PNG)
-	
-18.  a	
-	
-![18](pic/ToolInstall18.PNG)
 
