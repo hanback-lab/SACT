@@ -100,9 +100,8 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 - **AD/DA Convertor**
 	- ADC : Parallel 8-bit, Sampling Speed 1MHz
 	- DAC : Parallel 8-bit, Sampling Speed 500kHz
-		
 	- AD In : Volume Resistor(0 ~ +5V)
-	- Voltage meter
+	- Voltage meter : 0 ~ +5V, Display LED 10ea
 
 ![SACT-adcdac](pic/SACT09.png)
  
@@ -112,6 +111,11 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 		- 24개의 I/O 제어
 
 ![SACT-traffic](pic/SACT10.png)
+
+	- Traffic Light 
+		- 32개의 LED를 이용해 네거리의 신호등을 표현 제어
+		- 24개의 I/O 제어
+
 			
 	- Vending Machine Image
 		- 20개의 LED를 이용해 컵에 물이 차는 모양 표시
