@@ -111,12 +111,7 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 		- 24개의 I/O 제어
 
 ![SACT-traffic](pic/SACT10.png)
-
-	- Traffic Light 
-		- 32개의 LED를 이용해 네거리의 신호등을 표현 제어
-		- 24개의 I/O 제어
-
-			
+		
 	- Vending Machine Image
 		- 20개의 LED를 이용해 컵에 물이 차는 모양 표시
 		- 7개의 I/O 제어
@@ -131,10 +126,10 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 	- 7인치 TFT LCD를 통해 수업 내용 표시		
 
 ![SACT-lcd](pic/SACT12.png)
-			
+		
 	- Camera를 통한 AI 실험 데모
 		
 ![SACT-camera](pic/SACT13.png)
-			
+		
 
 
