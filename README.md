@@ -10,6 +10,9 @@ Hanback Electronics SACT.
 
 SACT 장비는 아래와 같은 특징을 갖고 있다. 
 
+![SACT-block](pic/SACT02.png)
+
+
 - 하드웨어 동작을 자유롭게 정의할 수 있는 프로그래머블 반도체 실습장비
 
 - 실습 지시서 운영에 필요한 터치 디스플레이와 카메라, 싱글 보드 컴퓨터(SBC) 제공
@@ -49,10 +52,52 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 
 - Design Software
 
--- Schematic을 사용한 반도체 응용 회로 설계
+		Schematic을 사용한 반도체 응용 회로 설계
 
--- 설계한 회로에 대한 시뮬레이션
+		설계한 회로에 대한 시뮬레이션
 
--- 프로그래밍을 통한 하드웨어 동작 확인
+		프로그래밍을 통한 하드웨어 동작 확인
+
+## 블록 설명
+
+- Semiconductor Application Circuit Design Block
+		Programable Logic Device에서 사용자가 반도체 응용 회로를 설계하고, 프로그래밍하여 하드웨어 동작을 확인해 볼 수 있는 블록
+
+![SACT-design](pic/SACT03.png)
+
+- Clock Control Block
+		반도체 응용 회로 설계에서 사용하기 위하여 0Hz에서 50MHz까지 16단계로 구성돈 클럭을 선택하여 사용.
+		0Hz, 1Hz, 10Hz, 50Hz, 100Hz, 500Hz, 1kHz, 5kHz, 10kHz, 50kHz, 100kHz, 500kHz, 1MHz, 5MHz, 25MHz, 50MHz
+
+![SACT-clock](pic/SACT04.png)
+
+- Input
+		Slide Switch 8ea, Push Button Switch 8ea, 3 x 4 Keypads 1ea
+
+![SACT-block](pic/SACT02.png)
+ 
+- Output 
+		Buzzer 1ea, Multi Tone Buzzer 1ea
+
+![SACT-block](pic/SACT02.png)
+ 
+- Display 
+		16 x 2 Text LCD, LED 8ea, RGB LED 4ea, 4 Digit FND 2ea
+
+![SACT-block](pic/SACT02.png)
+  
+- Actuator
+		Step Motor (Status LED 4ea)
+ 
+![SACT-block](pic/SACT02.png)
+ 
+- AD/DA Convertor
+		ADC : Parallel 8-bit, Sampling Speed 1MHz
+		DAC : Parallel 8-bit, Sampling Speed 500kHz
+		AD In : Volume Resistor(0 ~ +5V)
+		Voltage meter
+
+![SACT-block](pic/SACT02.png)
+ 
 
 
