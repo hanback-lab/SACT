@@ -12,7 +12,6 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 
 ![SACT-block](pic/SACT02.png)
 
-
 - 하드웨어 동작을 자유롭게 정의할 수 있는 프로그래머블 반도체 실습장비
 
 - 실습 지시서 운영에 필요한 터치 디스플레이와 카메라, 싱글 보드 컴퓨터(SBC) 제공
@@ -60,7 +59,6 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 - **Semiconductor Application Circuit Design Block**
 
 	Programable Logic Device에서 사용자가 반도체 응용 회로를 설계하고, 프로그래밍하여 하드웨어 동작을 확인해 볼 수 있는 블록
-
 ![SACT-design](pic/SACT03.png)
 
 - **Clock Control Block**
