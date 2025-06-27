@@ -68,74 +68,76 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 
 - **Clock Control Block**
 
-		반도체 응용 회로 설계에서 사용하기 위하여 0Hz에서 50MHz까지 16단계로 구성돈 클럭을 선택하여 사용.
+	반도체 응용 회로 설계에서 사용하기 위하여 0Hz에서 50MHz까지 16단계로 구성돈 클럭을 선택하여 사용.
 		
-		0Hz, 1Hz, 10Hz, 50Hz, 100Hz, 500Hz, 1kHz, 5kHz, 10kHz, 50kHz, 100kHz, 500kHz, 1MHz, 5MHz, 25MHz, 50MHz
+	0Hz, 1Hz, 10Hz, 50Hz, 100Hz, 500Hz, 1kHz, 5kHz, 10kHz, 50kHz, 100kHz, 500kHz, 1MHz, 5MHz, 25MHz, 50MHz
 
 ![SACT-clock](pic/SACT04.png)
 
 - **Input**
 
-		Slide Switch 8ea, Push Button Switch 8ea, 3 x 4 Keypads 1ea
+	Slide Switch 8ea, Push Button Switch 8ea, 3 x 4 Keypads 1ea
 
 ![SACT-input](pic/SACT05.png)
  
 - **Output **
 
-		Buzzer 1ea, Multi Tone Buzzer 1ea
+	Buzzer 1ea, Multi Tone Buzzer 1ea
 
 ![SACT-ouput](pic/SACT06.png)
  
 - **Display **
 
-		16 x 2 Text LCD, LED 8ea, RGB LED 4ea, 4 Digit FND 2ea
+	16 x 2 Text LCD, LED 8ea, RGB LED 4ea, 4 Digit FND 2ea
 
 ![SACT-disp](pic/SACT07.png)
   
 - **Actuator**
 
-		Step Motor (Status LED 4ea)
+	Step Motor (Status LED 4ea)
  
 ![SACT-act](pic/SACT08.png)
  
 - **AD/DA Convertor**
 
-		ADC : Parallel 8-bit, Sampling Speed 1MHz
+	ADC : Parallel 8-bit, Sampling Speed 1MHz
 		
-		DAC : Parallel 8-bit, Sampling Speed 500kHz
+	DAC : Parallel 8-bit, Sampling Speed 500kHz
 		
-		AD In : Volume Resistor(0 ~ +5V)
+	AD In : Volume Resistor(0 ~ +5V)
 		
-		Voltage meter
+	Voltage meter
 
 ![SACT-adcdac](pic/SACT09.png)
  
 - **Application Block**
 
-		Traffic Light 
+	Traffic Light 
 		
-			32개의 LED를 이용해 네거리의 신호등을 표현 제어
-			
-			24개의 I/O 제어
+		32개의 LED를 이용해 네거리의 신호등을 표현 제어
+		
+		24개의 I/O 제어
 
 ![SACT-traffic](pic/SACT10.png)
 			
-		Vending Machine Image
+	Vending Machine Image
 		
-			20개의 LED를 이용해 컵에 물이 차는 모양 표시
-			
-			7개의 I/O 제어
+		20개의 LED를 이용해 컵에 물이 차는 모양 표시
+		
+		7개의 I/O 제어
 
 ![SACT-vending](pic/SACT11.png)
 			
 
-- **Assistance Module**
+- **Assistance Block**
 
-		7인치 TFT LCD를 통해 수업 내용 표시
+	x86 계열의 PC와 7인치 모니터, Camera로 구성됨.
+		
+	7인치 TFT LCD를 통해 수업 내용 표시		
 
 ![SACT-lcd](pic/SACT12.png)
 			
-		Camera를 통한 AI 실험 데모
+	Camera를 통한 AI 실험 데모
 		
 ![SACT-camera](pic/SACT13.png)
 			
