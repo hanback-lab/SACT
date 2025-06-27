@@ -3,7 +3,7 @@ Hanback Electronics SACT.
 
 ## SACT 
 
-![SACT-pic](pic/SACT01)
+![SACT-pic](pic/SACT01.png)
 
 
 ## 특징
