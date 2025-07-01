@@ -13,14 +13,14 @@ NOT 연산은 입력 논리  값의 반대가 출력되는 연산이다. 출력 
 즉 High의 값이 입력되면, Low의 값이 출력 된다.
 
 
-![not01](_not/not01.png)
+![not01](_NOT/not01.png)
 
 |A|X = /a(not A)|
 |:---:|:---:|
 |0|1|
 |1|0|
 
-![not02](_not/not02.png)
+![not02](_NOT/not02.png)
 
 
 ### **실습**
