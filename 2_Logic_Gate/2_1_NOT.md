@@ -26,7 +26,9 @@ NOT 연산 진리표
 
 
 ### **실습**
----
+
+
+**목표**
 1. 다음의 회로를 설계하여 실험해 보자.
 
 <img src="./pds/not03.png" alt="not03" style="width: 70%;">
@@ -41,7 +43,7 @@ NOT 연산 진리표
 |1|0|1|
 
 
-
+**설계**
 2. 실험을 위해 아래 링크를 눌러, 프로젝트 파일을 다운로드 한다. 
 
 <a href="./pds/GATEpds.zip" download>여기를 클릭하여 프로젝트 다운로드</a>
@@ -95,19 +97,21 @@ NOT 연산 진리표
 
 <img src="./pds/not12.png" alt="not12" style="width: 70%;">
 
-
+**컴파일**
 12. File > Save 메뉴를 선택하여 저장하고, Processing > Start Compilation 메뉴를 선택하여 컴파일을 진행한다. 
 
 이 컴파일 과정은 설계한 논리 회로에 오류가 없는 지를 검증하고, 프로그래밍 파일과 시뮬레이션 파일을 만드는 과정이다. 
 
 
-<img src="./pds/ex03.png" alt="ex03" style="width: 50%;">
+<img src="./pds/ex03.png" alt="ex03" style="width: 30%;">
 
-<img src="./pds/ex04.png" alt="ex04" style="width: 50%;">
+<img src="./pds/ex04.png" alt="ex04" style="width: 30%;">
 
 13. 아래 그림은 컴파일이 진행되어 완료된 상태이다.  
 
-<img src="./pds/not13.png" alt="not13" style="width: 70%;">
+<img src="./pds/not13.png" alt="not13" style="width: 80%;">
+
+**시뮬레이션**
 
 
 
