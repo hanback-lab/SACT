@@ -58,4 +58,11 @@ NOT 연산 진리표
 <img src="./pds/ex01.png" alt="ex01" style="width: 40%;">
 
 
-5. 위에서 압축을 푼 위치인, d:\work\Logicpds 폴더로 이동 후, 
+5. 위에서 압축을 푼 위치인, d:\work\GATE_NOT 폴더로 이동 후,GATE_NOT 프로젝트를 OPEN한다. 
+
+<img src="./pds/not05.png" alt="not05" style="width: 70%;">
+
+6. 아래 그림이 GATE_NOT 프로젝트를 불러온 화면인데, 왼쪽의 GATE_NOT 부분을 마우스로 더블 클릭한다. 
+
+<img src="./pds/not06.png" alt="not06" style="width: 70%;">
+
