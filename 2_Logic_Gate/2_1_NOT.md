@@ -157,7 +157,7 @@ SACT 장비에서 확인하기 위하여 연결된 장치는 다음과 같다.
 
 <img src="./pds/ex08.png" alt="ex08" style="width: 70%;">
 
-<img src="./pds/ex09.png" alt="ex09" style="width: 50%;">
+<img src="./pds/ex09.png" alt="ex09" style="width: 35%;">
 
 22. 아래 그림과 같이 USB Blaster가 연결되어 있다면, Start 버튼을 눌러 프로그래밍 하고 장비에서 NOT 게이트의 동작을 확인한다. 
 
