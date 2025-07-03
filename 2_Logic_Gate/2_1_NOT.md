@@ -53,7 +53,7 @@ SACT 장비에서 확인하기 위하여 연결된 장치는 다음과 같다.
 
 2. 실험을 위해 아래 링크를 눌러, 프로젝트 파일을 다운로드 한다. 
 
-<a href="./pds/GATEpds.zip" download>여기를 클릭하여 프로젝트 다운로드</a>
+<a href="./pds/GATE_NOT.zip" download>여기를 클릭하여 프로젝트 다운로드</a>
 
 
 
