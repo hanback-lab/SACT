@@ -24,9 +24,10 @@ NOT 연산 진리표
 <img src="./_NOT/not02.png" alt="not02" style="width: 50%;">
 
 
+
 ### **실습**
 ---
-다음의 회로를 설계하여 실험해 보자.
+1. 다음의 회로를 설계하여 실험해 보자.
 
 <img src="./_NOT/not03.png" alt="not03" style="width: 70%;">
 
@@ -37,4 +38,11 @@ NOT 연산 진리표
 |0|1|0|
 |1|0|1|
 
+2. 실험을 위해 아래 링크를 눌러, 프로젝트 파일을 다운로드 한다. 
+
+[Logic Gate NOT](./NOT/Logic_Not.zip)
+
+3. Quartus II를 실행키고, File > Open Project 메뉴를 선택한다. 
 <img src="./_NOT/ex01.png" alt="ex01" style="width: 40%;">
+
+4. NOT
