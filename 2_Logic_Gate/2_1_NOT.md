@@ -31,18 +31,30 @@ NOT 연산 진리표
 
 <img src="./_NOT/not03.png" alt="not03" style="width: 70%;">
 
+
 이 회로의 진리표은 다음과 같다. 
+
 
 |A|X = /A |Y = /(/A) = A|
 |:---:|:---:|:---:|
 |0|1|0|
 |1|0|1|
 
+
+
 2. 실험을 위해 아래 링크를 눌러, 프로젝트 파일을 다운로드 한다. 
 
 <a href="./_NOT/Logic_NOT.zip" download>여기를 클릭하여 프로젝트 다운로드</a>
 
-3. Quartus II를 실행키고, File > Open Project 메뉴를 선택한다. 
+
+
+3. 다운로드된 프로젝트의 압축 파일을 d:\work에 이동시킨 후, 압축을 푼다.
+
+ 
+
+ 
+
+4. Quartus II를 실행키고, File > Open Project 메뉴를 선택한다. 
 <img src="./_NOT/ex01.png" alt="ex01" style="width: 40%;">
 
 4. NOT
