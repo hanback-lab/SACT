@@ -50,12 +50,12 @@ NOT 연산 진리표
 
 3. 다운로드된 프로젝트의 압축 파일을 d:\work에 이동시킨 후, 압축을 푼다.
 
-<img src="./pds/not04.png" alt="not04" style="width: 70%;">
+<img src="./pds/not04.png" alt="not04" style="width: 50%;">
  
 
 4. Quartus II를 실행키고, File> Open Project 메뉴를 선택한다. 
 
-<img src="./pds/ex01.png" alt="ex01" style="width: 40%;">
+<img src="./pds/ex01.png" alt="ex01" style="width: 50%;">
 
 
 5. 위에서 압축을 푼 위치인, d:\work\GATE_NOT 폴더로 이동 후,GATE_NOT 프로젝트를 OPEN한다. 
