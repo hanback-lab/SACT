@@ -105,6 +105,7 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 		- 24개의 I/O 제어
 <img src="./pic/SACT10.png" alt="sact10" style="width: 60%;">
 
+
 	- Vending Machine Image
 		- 20개의 LED를 이용해 컵에 물이 차는 모양 표시
 		- 7개의 I/O 제어
@@ -116,7 +117,7 @@ SACT 장비는 아래와 같은 특징을 갖고 있다.
 	- x86 계열의 PC와 7인치 모니터, Camera로 구성됨.
 		
 	- 7인치 TFT LCD를 통해 수업 내용 표시		
-	<img src="./pic/SACT12.png" alt="sact12" style="width: 60%;">
+<img src="./pic/SACT12.png" alt="sact12" style="width: 60%;">
 
 	- Camera를 통한 AI 실험 데모
 <img src="./pic/SACT13.png" alt="sact13" style="width: 60%;">
