@@ -28,13 +28,13 @@ NOT 연산 진리표
 ---
 다음의 회로를 설계하여 실험해 보자.
 
-<img src="./_NOT/not03.png" alt="not03" style="width: 50%;">
+<img src="./_NOT/not03.png" alt="not03" style="width: 70%;">
 
 이 회로의 진리표은 다음과 같다. 
 
 |A|X = /A |Y = /(/A) = A|
-|:---:|:---:||:---:|
+|:---:|:---:|:---:|
 |0|1|0|
 |1|0|1|
 
-<img src="./_NOT/ex01.png" alt="ex01" style="width: 50%;">
+<img src="./_NOT/ex01.png" alt="ex01" style="width: 40%;">
