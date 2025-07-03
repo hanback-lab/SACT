@@ -151,13 +151,13 @@ SACT 장비에서 확인하기 위하여 연결된 장치는 다음과 같다.
 
 20. Quartus 소프트웨어에서 Tool > Programmer 메뉴를 선택한다.
 
-<img src="./pds/ex07.png" alt="ex07" style="width: 70%;">
+<img src="./pds/ex07.png" alt="ex07" style="width: 50%;">
 
 21. 앞의 그림과 같이 Programmer창의 Hardware Setup  부분이 No Hardware로 되어 있다면, 장비와 PC간에 USB 케이블이 바르게 연결되어 있는지 확인하고 Hardware Setup 버튼을 눌러, USB Blaster를 선택한다. 
 
 <img src="./pds/ex08.png" alt="ex08" style="width: 70%;">
 
-<img src="./pds/ex09.png" alt="ex09" style="width: 70%;">
+<img src="./pds/ex09.png" alt="ex09" style="width: 50%;">
 
 22. 아래 그림과 같이 USB Blaster가 연결되어 있다면, Start 버튼을 눌러 프로그래밍 하고 장비에서 NOT 게이트의 동작을 확인한다. 
 
