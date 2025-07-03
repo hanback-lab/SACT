@@ -71,7 +71,7 @@ NOT 연산 진리표
 
 <img src="./pds/not07.png" alt="not07" style="width: 70%;">
 
-<img src="./pds/not03.png" alt="not03" style="width: 80%;">
+<img src="./pds/not03.png" alt="not03" style="width: 70%;">
 
 8. 아래 그림과 같이 도면을 마우스로 더블 클릭하거나, 마우스 오른쪽 버튼을 누르고 Insert > Symbol 메뉴를 선택한다. 
 
@@ -80,3 +80,16 @@ NOT 연산 진리표
 9. 심볼 창에서 왼쪽 아래 부분의 -Name- 부분에 not이라고 심볼명을 입력하고, OK 버튼을 누른다. 
 
 <img src="./pds/not09.png" alt="not09" style="width: 70%;">
+
+10. NOT 게이트 심볼을 도면에 위치시킨다. 다시 한 번 진행하여 총 2개의 심볼을 도면에 위치시킨다. 
+
+<img src="./pds/not10.png" alt="not10" style="width: 70%;">
+
+11. 심볼의 선 분에 마우스 포인터를 가져가면 아래 그림과 같이 wire를 그리는 것으로 바뀌는데, 마우스의 드래그 & 드롭을 이용해서 회로를 완성해 보자.
+
+<img src="./pds/not11.png" alt="not11" style="width: 70%;">
+
+<img src="./pds/not12.png" alt="not12" style="width: 70%;">
+
+
+
