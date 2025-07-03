@@ -21,14 +21,14 @@ NOT 연산 진리표
 |0|1|
 |1|0|
 
-<img src="./_NOT/not02.png" alt="not02" style="width: 30%;">
+<img src="./_NOT/not02.png" alt="not02" style="width: 50%;">
 
 
 ### **실습**
 ---
 다음의 회로를 설계하여 실험해 보자.
 
-<img src="./_NOT/not03.png" alt="not03" style="width: 30%;">
+<img src="./_NOT/not03.png" alt="not03" style="width: 50%;">
 
 이 회로의 진리표은 다음과 같다. 
 
@@ -37,4 +37,4 @@ NOT 연산 진리표
 |0|1|0|
 |1|0|1|
 
-<img src="./_NOT/ex01.png" alt="ex01" style="width: 30%;">
+<img src="./_NOT/ex01.png" alt="ex01" style="width: 50%;">
