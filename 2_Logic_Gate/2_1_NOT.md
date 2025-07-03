@@ -43,6 +43,11 @@ NOT 연산 진리표
 |0|1|0|
 |1|0|1|
 
+SACT 장비에서 확인하기 위하여 연결된 장치는 다음과 같다. 
+
+|A|X|Y|
+|:---:|:---:|:---:|
+|SLIDE7|LED7|LED6|
 
 **설계**
 
@@ -123,9 +128,46 @@ NOT 연산 진리표
 
 <img src="./pds/not14.png" alt="not14" style="width: 70%;">
 
-<img src="./pds/ex06.png" alt="ex06" style="width: 50%;">
+<img src="./pds/ex06.png" alt="ex06" style="width: 80%;">
 
 <img src="./pds/not15.png" alt="not15" style="width: 70%;">
+
+15. 아래 그림과 같이 Waveform 창에서, Simulation > Run Functiona Simulation 메뉴를 선택하여 Functional Simulation을 진행한다. 
+
+<img src="./pds/not16.png" alt="not16" style="width: 70%;">
+
+16. 아래 그림은 시뮬레이션 한 결과이다. 앞의 실험 목표에서 설명한 진리표와 맞게 시뮬레이셔 되었는지 확인한다. 
+
+<img src="./pds/not17.png" alt="not17" style="width: 70%;">
+
+
+**하드웨어 동작 확인**
+
+17. SACT 장비를 준비한다. 
+
+18. 장비의 중앙 위쪽의 USB B Type Connector에 USB 케이블을 PC와 연결한다. 
+
+19. 장비의 왼쪽 Power Connector에 전원 케이블을 연결하고, 전원 스위치를 눌러 장비에 전원을 인가시킨다. 
+
+20. Quartus 소프트웨어에서 Tool > Programmer 메뉴를 선택한다.
+
+<img src="./pds/ex07.png" alt="ex07" style="width: 70%;">
+
+21. 앞의 그림과 같이 Programmer창의 Hardware Setup  부분이 No Hardware로 되어 있다면, 장비와 PC간에 USB 케이블이 바르게 연결되어 있는지 확인하고 Hardware Setup 버튼을 눌러, USB Blaster를 선택한다. 
+
+<img src="./pds/ex08.png" alt="ex08" style="width: 70%;">
+
+<img src="./pds/ex09.png" alt="ex09" style="width: 70%;">
+
+22. 아래 그림과 같이 USB Blaster가 연결되어 있다면, Start 버튼을 눌러 프로그래밍 하고 장비에서 NOT 게이트의 동작을 확인한다. 
+
+<img src="./pds/not18.png" alt="ex18" style="width: 70%;">
+
+
+
+
+ 
+
 
 
 
