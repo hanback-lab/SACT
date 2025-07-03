@@ -66,3 +66,17 @@ NOT 연산 진리표
 
 <img src="./pds/not06.png" alt="not06" style="width: 70%;">
 
+
+7. 아래 그림과 같이 미완성된 도면이 보이는데, 1번에서 설명한 도면으로 완성시키자. 
+
+<img src="./pds/not07.png" alt="not07" style="width: 70%;">
+
+<img src="./pds/not03.png" alt="not03" style="width: 80%;">
+
+8. 아래 그림과 같이 도면을 마우스로 더블 클릭하거나, 마우스 오른쪽 버튼을 누르고 Insert > Symbol 메뉴를 선택한다. 
+
+<img src="./pds/not08.png" alt="not08" style="width: 70%;">
+
+9. 심볼 창에서 왼쪽 아래 부분의 -Name- 부분에 not이라고 심볼명을 입력하고, OK 버튼을 누른다. 
+
+<img src="./pds/not09.png" alt="not09" style="width: 70%;">
