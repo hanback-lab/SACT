@@ -13,7 +13,7 @@ NOT 연산은 입력 논리  값의 반대가 출력되는 연산이다. 출력 
 즉 High의 값이 입력되면, Low의 값이 출력 된다.
 
 
-<img src="./_NOT/not01.png" alt="not01" style="width: 30%;">
+<img src="./pds/not01.png" alt="not01" style="width: 30%;">
 
 NOT 연산 진리표
 |A|X = /A  (not A)|
@@ -21,7 +21,7 @@ NOT 연산 진리표
 |0|1|
 |1|0|
 
-<img src="./_NOT/not02.png" alt="not02" style="width: 50%;">
+<img src="./pds/not02.png" alt="not02" style="width: 50%;">
 
 
 
@@ -29,7 +29,7 @@ NOT 연산 진리표
 ---
 1. 다음의 회로를 설계하여 실험해 보자.
 
-<img src="./_NOT/not03.png" alt="not03" style="width: 70%;">
+<img src="./pds/not03.png" alt="not03" style="width: 70%;">
 
 
 이 회로의 진리표은 다음과 같다. 
@@ -44,17 +44,18 @@ NOT 연산 진리표
 
 2. 실험을 위해 아래 링크를 눌러, 프로젝트 파일을 다운로드 한다. 
 
-<a href="./_NOT/Logic_NOT.zip" download>여기를 클릭하여 프로젝트 다운로드</a>
+<a href="./pds/GATEpds.zip" download>여기를 클릭하여 프로젝트 다운로드</a>
 
 
 
 3. 다운로드된 프로젝트의 압축 파일을 d:\work에 이동시킨 후, 압축을 푼다.
 
+<img src="./pds/not04.png" alt="not04" style="width: 70%;">
  
 
- 
+4. Quartus II를 실행키고, File> Open Project 메뉴를 선택한다. 
 
-4. Quartus II를 실행키고, File > Open Project 메뉴를 선택한다. 
-<img src="./_NOT/ex01.png" alt="ex01" style="width: 40%;">
+<img src="./pds/ex01.png" alt="ex01" style="width: 40%;">
 
-4. NOT
+
+5. 위에서 압축을 푼 위치인, d:\work\Logicpds 폴더로 이동 후, 
