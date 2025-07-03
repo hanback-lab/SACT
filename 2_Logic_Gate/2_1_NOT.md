@@ -64,7 +64,7 @@ NOT 연산 진리표
 
 6. File > Open 메뉴를 선택하여 GATE_NOT.bdf 파일을 불러오거나, 프로젝트 왼쪽의 GATE_NOT 부분을 마우스로 더블 클릭한다. 
 
-<img src="./pds/ex02.png" alt="ex02" style="width: 70%;">
+<img src="./pds/ex02.png" alt="ex02" style="width: 50%;">
 
 <img src="./pds/not06.png" alt="not06" style="width: 70%;">
 
@@ -101,9 +101,9 @@ NOT 연산 진리표
 이 컴파일 과정은 설계한 논리 회로에 오류가 없는 지를 검증하고, 프로그래밍 파일과 시뮬레이션 파일을 만드는 과정이다. 
 
 
-<img src="./pds/ex03.png" alt="ex03" style="width: 70%;">
+<img src="./pds/ex03.png" alt="ex03" style="width: 50%;">
 
-<img src="./pds/ex04.png" alt="ex04" style="width: 70%;">
+<img src="./pds/ex04.png" alt="ex04" style="width: 50%;">
 
 13. 아래 그림은 컴파일이 진행되어 완료된 상태이다.  
 
