@@ -62,7 +62,9 @@ NOT 연산 진리표
 
 <img src="./pds/not05.png" alt="not05" style="width: 70%;">
 
-6. 아래 그림이 GATE_NOT 프로젝트를 불러온 화면인데, 왼쪽의 GATE_NOT 부분을 마우스로 더블 클릭한다. 
+6. File > Open 메뉴를 선택하여 GATE_NOT.bdf 파일을 불러오거나, 프로젝트 왼쪽의 GATE_NOT 부분을 마우스로 더블 클릭한다. 
+
+<img src="./pds/ex02.png" alt="ex02" style="width: 70%;">
 
 <img src="./pds/not06.png" alt="not06" style="width: 70%;">
 
@@ -87,9 +89,25 @@ NOT 연산 진리표
 
 11. 심볼의 선 분에 마우스 포인터를 가져가면 아래 그림과 같이 wire를 그리는 것으로 바뀌는데, 마우스의 드래그 & 드롭을 이용해서 회로를 완성해 보자.
 
+회로의 Wire가 정확하게 연결되지 않았을 경우에는 원하는 동작이 되지 않을 수 있기 때문에 주의하자. 
+
 <img src="./pds/not11.png" alt="not11" style="width: 70%;">
 
 <img src="./pds/not12.png" alt="not12" style="width: 70%;">
+
+
+12. File > Save 메뉴를 선택하여 저장하고, Processing > Start Compilation 메뉴를 선택하여 컴파일을 진행한다. 
+
+이 컴파일 과정은 설계한 논리 회로에 오류가 없는 지를 검증하고, 프로그래밍 파일과 시뮬레이션 파일을 만드는 과정이다. 
+
+
+<img src="./pds/ex03.png" alt="ex03" style="width: 70%;">
+
+<img src="./pds/ex04.png" alt="ex04" style="width: 70%;">
+
+13. 아래 그림은 컴파일이 진행되어 완료된 상태이다.  
+
+<img src="./pds/not13.png" alt="not13" style="width: 70%;">
 
 
 
