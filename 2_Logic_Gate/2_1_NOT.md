@@ -13,8 +13,7 @@ NOT 연산은 입력 논리  값의 반대가 출력되는 연산이다. 출력 
 즉 High의 값이 입력되면, Low의 값이 출력 된다.
 
 
-![not01](_NOT/not01.png)
-<img src="./_NOT/not01.png" alt="not01" style="width: 50%;">
+<img src="./_NOT/not01.png" alt="not01" style="width: 30%;">
 
 NOT 연산 진리표
 |A|X = /A  (not A)|
@@ -22,19 +21,20 @@ NOT 연산 진리표
 |0|1|
 |1|0|
 
-![not02](_NOT/not02.png)
+<img src="./_NOT/not02.png" alt="not02" style="width: 30%;">
 
 
 ### **실습**
 ---
 다음의 회로를 설계하여 실험해 보자.
 
-![ex01](_NOT/not03.png)
+<img src="./_NOT/not03.png" alt="not03" style="width: 30%;">
 
 이 회로의 진리표은 다음과 같다. 
-|A|X = /A  (not A)}Y = /(/A) = A|
+
+|A|X = /A |Y = /(/A) = A|
 |:---:|:---:||:---:|
 |0|1|0|
 |1|0|1|
 
-![ex01](_NOT/ex01.png)
+<img src="./_NOT/ex01.png" alt="ex01" style="width: 30%;">
