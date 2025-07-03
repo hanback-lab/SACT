@@ -28,7 +28,7 @@ NOT 연산 진리표
 ### **2.1.2.실습**
 
 
-####**실험 목표**
+**실험 목표**
 
 1. 다음의 회로를 설계하여 실험해 보자.
 
@@ -44,7 +44,7 @@ NOT 연산 진리표
 |1|0|1|
 
 
-####**설계**
+**설계**
 
 2. 실험을 위해 아래 링크를 눌러, 프로젝트 파일을 다운로드 한다. 
 
@@ -100,7 +100,7 @@ NOT 연산 진리표
 <img src="./pds/not12.png" alt="not12" style="width: 70%;">
 
 
-####**컴파일**
+**컴파일**
 
 
 12. File > Save 메뉴를 선택하여 저장하고, Processing > Start Compilation 메뉴를 선택하여 컴파일을 진행한다. 
@@ -117,8 +117,20 @@ NOT 연산 진리표
 <img src="./pds/not13.png" alt="not13" style="width: 80%;">
 
 
-####**시뮬레이션**
+**시뮬레이션**
 
-14. 아래 그림과 같이 File > Open 메뉴에서 
+14. 아래 그림과 같이 File > Open 메뉴를 선택하고, 나타나는 Open File 창에서 오른쪽 아래 부분의 File Type을 All File(*.*)로 변경한 후, Waveform.vwf 파일을 선택한다. 
+
+<img src="./pds/not14.png" alt="not14" style="width: 70%;">
+
+<img src="./pds/ex06.png" alt="ex06" style="width: 50%;">
+
+<img src="./pds/not15.png" alt="not15" style="width: 70%;">
+
+
+
+
+
+
 
 
