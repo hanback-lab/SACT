@@ -40,7 +40,7 @@ NOT 연산 진리표
 
 2. 실험을 위해 아래 링크를 눌러, 프로젝트 파일을 다운로드 한다. 
 
-[Logic Gate NOT](./_NOT/Logic_Not.zip)
+[NOT_Project](./_NOT/Logic_NOT.zip)
 
 3. Quartus II를 실행키고, File > Open Project 메뉴를 선택한다. 
 <img src="./_NOT/ex01.png" alt="ex01" style="width: 40%;">
