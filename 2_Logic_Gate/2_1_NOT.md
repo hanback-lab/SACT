@@ -59,12 +59,12 @@ SACT 장비에서 확인하기 위하여 연결된 장치는 다음과 같다.
 
 3. 다운로드된 프로젝트의 압축 파일을 d:\work에 이동시킨 후, 압축을 푼다.
 
-<img src="./pds/not04.png" alt="not04" style="width: 50%;">
+<img src="./pds/not04.png" alt="not04" style="width: 70%;">
  
 
 4. Quartus II를 실행키고, File> Open Project 메뉴를 선택한다. 
 
-<img src="./pds/ex01.png" alt="ex01" style="width: 50%;">
+<img src="./pds/ex01.png" alt="ex01" style="width: 35%;">
 
 
 5. 위에서 압축을 푼 위치인, d:\work\GATE_NOT 폴더로 이동 후,GATE_NOT 프로젝트를 OPEN한다. 
@@ -73,7 +73,7 @@ SACT 장비에서 확인하기 위하여 연결된 장치는 다음과 같다.
 
 6. File > Open 메뉴를 선택하여 GATE_NOT.bdf 파일을 불러오거나, 프로젝트 왼쪽의 GATE_NOT 부분을 마우스로 더블 클릭한다. 
 
-<img src="./pds/ex02.png" alt="ex02" style="width: 50%;">
+<img src="./pds/ex02.png" alt="ex02" style="width: 35%;">
 
 <img src="./pds/not06.png" alt="not06" style="width: 70%;">
 
@@ -113,9 +113,9 @@ SACT 장비에서 확인하기 위하여 연결된 장치는 다음과 같다.
 이 컴파일 과정은 설계한 논리 회로에 오류가 없는 지를 검증하고, 프로그래밍 파일과 시뮬레이션 파일을 만드는 과정이다. 
 
 
-<img src="./pds/ex03.png" alt="ex03" style="width: 30%;">
+<img src="./pds/ex03.png" alt="ex03" style="width: 35%;">
 
-<img src="./pds/ex04.png" alt="ex04" style="width: 30%;">
+<img src="./pds/ex04.png" alt="ex04" style="width: 35%;">
 
 13. 아래 그림은 컴파일이 진행되어 완료된 상태이다.  
 
