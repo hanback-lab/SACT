@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Jul 18 17:12:21 2025
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : CALC
+Top-level Entity Name : CALC
+Family : Cyclone 10 LP
+Device : 10CL080YF484C8G
+Timing Models : Final
+Total logic elements : 71 / 81,264 ( < 1 % )
+    Total combinational functions : 71 / 81,264 ( < 1 % )
+    Dedicated logic registers : 0 / 81,264 ( 0 % )
+Total registers : 0
+Total pins : 18 / 290 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 0 / 2,810,880 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 488 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Jul 18 10:59:03 2025
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : COMP4
+Top-level Entity Name : COMP4
+Family : Cyclone 10 LP
+Total logic elements : 7
+    Total combinational functions : 7
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 11
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

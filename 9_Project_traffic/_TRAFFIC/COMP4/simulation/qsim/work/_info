@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dd:/work/COMP4/simulation/qsim
+vCOMP4
+Z1 !s110 1752804053
+!i10b 1
+!s100 4VSZV?OMBA;oQ:BA]EZSB2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I50G_h5iXg@20Vd:7B54no1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1752804052
+Z5 8COMP4.vo
+Z6 FCOMP4.vo
+!i122 2
+L0 32 307
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1752804053.000000
+Z9 !s107 COMP4.vo|
+Z10 !s90 -work|work|COMP4.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@c@o@m@p4
+vCOMP4_vlg_vec_tst
+R1
+!i10b 1
+!s100 N54i4F93B;z=>m0U9?>L80
+R2
+I0?mQ@1^5z=VBO@i[S9:?]0
+R3
+R0
+w1752804051
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 3
+L0 30 96
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R11
+R12
+n@c@o@m@p4_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 [gBWdTI?j;AYHPJeOTMkF0
+R2
+I61PzN[Znk=JU[<m0S_:Xo0
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 340 34
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12

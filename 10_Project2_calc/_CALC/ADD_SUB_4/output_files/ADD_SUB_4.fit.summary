@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Jul 18 14:47:23 2025
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : ADD_SUB_4
+Top-level Entity Name : ADD_SUB_4
+Family : Cyclone 10 LP
+Device : 10CL080YF484C8G
+Timing Models : Final
+Total logic elements : 15 / 81,264 ( < 1 % )
+    Total combinational functions : 15 / 81,264 ( < 1 % )
+    Dedicated logic registers : 0 / 81,264 ( 0 % )
+Total registers : 0
+Total pins : 15 / 290 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 2,810,880 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 488 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
