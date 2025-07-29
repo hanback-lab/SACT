@@ -81,3 +81,12 @@ SACT 장비에서 사용하는 장치는 다음과 같다.
 <br>
 
 <img src="./pds/sca03.png" alt="scmp4_t-cmp4_" style="width: 80%;">
+
+
+
+## [11-1. KeyPads Controller](https://github.com/hanback-lab/SACT/blob/main/11_Project4_DoorLock/11-1.KEYPAD.md)
+
+## [11-2. 4bit 4 Shift Register](https://github.com/hanback-lab/SACT/blob/main/11_Project4_DoorLock/11-2.Shift_Register.md)
+
+## [11-3. DoorLock Controller](https://github.com/hanback-lab/SACT/blob/main/11_Project4_DoorLock/11-4.DoorLock_Controlelr.md)
+

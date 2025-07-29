@@ -7,7 +7,7 @@
 
 이 프로젝트에서는 A와 B의 4비트 입력 데이터에 대한 덧셈, 뺄셈, 곱셈, 나눗셈의 결과가 출력되는 회로를 설계할 것이다. 
 
-<img src="./pds/tra01.png" alt="tra01" style="width: 35%;"><br>
+<img src="./pds/calc.png" alt="tra01" style="width: 35%;"><br>
 
 <BR>
 
@@ -15,5 +15,12 @@
 
 <BR>
 
+## [9-1. 4bit Adder / Subtractor](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/9-1.Add_Sub.md)
+
+## [9-2. 4bit Multiplier](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/9-2.Multiplexer.md)
+
+## [9-3. 4bit Divider](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/9-3.Divider.md)
+
+## [9-4. 4bit Calculator](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/9-4.4bit%20Calculator.md)
 
 

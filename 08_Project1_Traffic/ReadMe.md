@@ -6,7 +6,7 @@
 이 절에서는 그동안 실습하였던 GATE에 대한 동작 내용을 응용하여 신호등 제어하는 예제를 진행하려고 한다. 
 
 
-<img src="./pds/tra01.png" alt="tra01" style="width: 35%;"><br>
+<img src="./pds/tra01.png" alt="tra01" style="width: 50%;"><br>
 
 <BR>
 
@@ -174,8 +174,13 @@ CROSS는 차도의 신호등을 의미하고, WALK는 인도의 신호등을 의
 <BR>
 
 
+## [8-1. MOD 10 Counter](https://github.com/hanback-lab/SACT/blob/main/08_Project1_Traffic/8-1.CNT_MOD10.md)
 
+## [8-2. 4bit Comparator](https://github.com/hanback-lab/SACT/blob/main/08_Project1_Traffic/8-2.COMPARE4.md)
 
+## [8-3. One way Traffic Light](https://github.com/hanback-lab/SACT/blob/main/08_Project1_Traffic/8-3.ONE_WAY.md)
+
+## [8-4. 4 way Traffic Light](https://github.com/hanback-lab/SACT/blob/main/08_Project1_Traffic/8-4.TRAFFIC_LIGHT.md)
 
 
 

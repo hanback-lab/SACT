@@ -53,3 +53,10 @@ SEGMENT DISPLAY 블록은 COUNTER 블록에서 출력하는 초와 분의 BCD �
 <img src="./pds/wt02.png" alt="scmp4_t-cmp4_" style="width: 80%;">
 <BR><BR>
 
+
+## [10-1. MOD 60 Counter](https://github.com/hanback-lab/SACT/blob/main/10_Project3_Watch/10-1.COUNTER.md)
+
+## [10-2. Segment Array Display Controller](https://github.com/hanback-lab/SACT/blob/main/10_Project3_Watch/10-2.SEG_DISPLAY.md)
+
+## [10-3. Watch (Miniute / Second )](https://github.com/hanback-lab/SACT/blob/main/10_Project3_Watch/10-3.WATCH_.md)
+
