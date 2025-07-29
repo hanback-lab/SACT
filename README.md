@@ -124,52 +124,48 @@
 
 ### Chapter 7. Memory
 
-#### [7-1. RAM](https://github.com/hanback-lab/SACT/blob/main/07_Memory/8-1.RAM.md)
+#### [7-1. RAM](https://github.com/hanback-lab/SACT/blob/main/07_Memory/7-1.RAM.md)
 
-#### [7-2. ROM](https://github.com/hanback-lab/SACT/blob/main/07_Memory/8-2.ROM.md)
+#### [7-2. ROM](https://github.com/hanback-lab/SACT/blob/main/07_Memory/7-2.ROM.md)
 
 
 <br>
 
 ### Chapter 8. Project-Traffic Light
 
-#### [8-1. Traffic Light ](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-1.TRAFFIC_LIGHT.md)
+#### [8-1. MOD 10 Counter](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-2.CNT_MOD10.md)
 
-#### [8-2. MOD 10 Counter](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-2.CNT_MOD10.md)
+#### [8-2. 4bit Comparator](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-3.COMPARE4.md)
 
-#### [8-3. 4bit Comparator](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-3.COMPARE4.md)
+#### [8-3. One way Traffic Light](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-4.ONE_WAY.md)
 
-#### [8-4. One way Traffic Light](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-4.ONE_WAY.md)
-
-#### [8-5. 4 way Traffic Light](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-5.TRAFFIC_LIGHT.md)
+#### [8-4. 4 way Traffic Light](https://github.com/hanback-lab/SACT/blob/main/08_Project_Traffic/9-5.TRAFFIC_LIGHT.md)
 
 <br>
 
 ### Chapter 9. Project-Calcualtor
 
-#### [9-1. Calculator](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/10-1._Calculator.md)
+#### [9-1. 4bit Adder / Subtractor](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/10-2.Add_Sub.md)
 
-#### [9-2. 4bit Adder / Subtractor](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/10-2.Add_Sub.md)
+#### [9-2. 4bit Multiplier](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/10-3.Multiplexer.md)
 
-#### [9-3. 4bit Multiplier](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/10-3.Multiplexer.md)
+#### [9-3. 4bit Divider]
+#### [9-4. 4bit Calculator]
 
-#### [9-4. 4bit Divider]
-#### [9-5. 4bit Calculator]
+<br>
 
 ### Chapter 10. Project-Watch
 
-#### [10-1. Watch]
-#### [10-2. MOD 60 Counter]
-#### [10-3. Segment Array Display Controller]
-#### [10-4. Watch (Miniute / Second )]
+#### [10-1. MOD 60 Counter]
+#### [10-2. Segment Array Display Controller]
+#### [10-3. Watch (Miniute / Second )]
 
 
 ### Chapter 11. Project-DoorLock
 
-#### [11-1. DoorLock]
-#### [11-2. KeyPads Controller]
-#### [11-3. 4bit 4 Shift Register]
-#### [11-4. DoorLock Controller]
+#### [11-1. KeyPads Controller]
+#### [11-2. 4bit 4 Shift Register]
+#### [11-3. DoorLock Controller]
 
 ### Chapter 12. Appendix - Pin MAP
 
