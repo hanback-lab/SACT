@@ -15,11 +15,11 @@
 이 절에서는 이 카운터에 대한 기본 개념을 설명하고 있다.  
 
 
-## [6-1. Asynchorous Counter](./06_Counter/6-1.ASYNC_CNT.md)
+## [6-1. Asynchorous Counter](./6-1.ASYNC_CNT.md)
 
-## [6-2. Synchorous Counter](./06_Counter/6-2.SYNC_CNT.md)
+## [6-2. Synchorous Counter](./6-2.SYNC_CNT.md)
 
-## [6-3. Timing Simulation](./06_Counter/6-3.TIMING.md)
+## [6-3. Timing Simulation](./6-3.TIMING.md)
 
-## [6-4. MOD Counter](./06_Counter/6-4.MOD_CNT.md)
+## [6-4. MOD Counter](./6-4.MOD_CNT.md)
 

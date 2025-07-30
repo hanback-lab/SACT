@@ -15,12 +15,12 @@
 
 <BR>
 
-## [9-1. 4bit Adder / Subtractor](./09_Project2_Calculator/9-1.Add_Sub.md)
+## [9-1. 4bit Adder / Subtractor](./9-1.Add_Sub.md)
 
-## [9-2. 4bit Multiplier](./09_Project2_Calculator/9-2.Multiplexer.md)
+## [9-2. 4bit Multiplier](./9-2.Multiplexer.md)
 
-## [9-3. 4bit Divider](./09_Project2_Calculator/9-3.Divider.md)
+## [9-3. 4bit Divider](./9-3.Divider.md)
 
-## [9-4. 4bit Calculator](./09_Project2_Calculator/9-4.4bit%20Calculator.md)
+## [9-4. 4bit Calculator](./9-4.4bit%20Calculator.md)
 
 
