@@ -7,9 +7,9 @@
 
 ---
 
-## [1-1. SACT Overview](https://github.com/hanback-lab/SACT/blob/main/01_Preferences/1-1.SACT%20Overview.md)
+## [1-1. SACT Overview](./1-1.SACT%20Overview.md)
 
-## [1-2. Tool Install](https://github.com/hanback-lab/SACT/blob/main/01_Preferences/1-2.Tool%20Install.md)
+## [1-2. Tool Install](./1-2.Tool%20Install.md)
 
-## [1-3. Gettiung Started](https://github.com/hanback-lab/SACT/blob/main/01_Preferences/1-3.Getting%20Started.md)
+## [1-3. Gettiung Started](./1-3.Getting%20Started.md)
 

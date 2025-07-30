@@ -15,12 +15,12 @@
 
 <BR>
 
-## [9-1. 4bit Adder / Subtractor](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/9-1.Add_Sub.md)
+## [9-1. 4bit Adder / Subtractor](./9-1.Add_Sub.md)
 
-## [9-2. 4bit Multiplier](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/9-2.Multiplexer.md)
+## [9-2. 4bit Multiplier](./9-2.Multiplexer.md)
 
-## [9-3. 4bit Divider](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/9-3.Divider.md)
+## [9-3. 4bit Divider](./9-3.Divider.md)
 
-## [9-4. 4bit Calculator](https://github.com/hanback-lab/SACT/blob/main/09_Project2_Calculator/9-4.4bit%20Calculator.md)
+## [9-4. 4bit Calculator](./9-4.4bit%20Calculator.md)
 
 

@@ -174,13 +174,13 @@ CROSS는 차도의 신호등을 의미하고, WALK는 인도의 신호등을 의
 <BR>
 
 
-## [8-1. MOD 10 Counter](https://github.com/hanback-lab/SACT/blob/main/08_Project1_Traffic/8-1.CNT_MOD10.md)
+## [8-1. MOD 10 Counter](./8-1.CNT_MOD10.md)
 
-## [8-2. 4bit Comparator](https://github.com/hanback-lab/SACT/blob/main/08_Project1_Traffic/8-2.COMPARE4.md)
+## [8-2. 4bit Comparator](./8-2.COMPARE4.md)
 
-## [8-3. One way Traffic Light](https://github.com/hanback-lab/SACT/blob/main/08_Project1_Traffic/8-3.ONE_WAY.md)
+## [8-3. One way Traffic Light](./8-3.ONE_WAY.md)
 
-## [8-4. 4 way Traffic Light](https://github.com/hanback-lab/SACT/blob/main/08_Project1_Traffic/8-4.TRAFFIC_LIGHT.md)
+## [8-4. 4 way Traffic Light](./8-4.TRAFFIC_LIGHT.md)
 
 
 
