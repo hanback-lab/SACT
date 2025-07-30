@@ -4,24 +4,24 @@
 디지털 논리 회로의 기초인 Gate에 대해 설명한다. 
 
 
-## [2-1. NOT Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-01.NOT.md)
+## [2-1. NOT Gate](./02_Logic_Gate/2-01.NOT.md)
 
-## [2-2. AND Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-02.AND.md)
+## [2-2. AND Gate](./02_Logic_Gate/2-02.AND.md)
 
-## [2-3. OR Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-03.OR.md)
+## [2-3. OR Gate](./02_Logic_Gate/2-03.OR.md)
 
-## [2-4. NAND Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-04.NAND.md)
+## [2-4. NAND Gate](./02_Logic_Gate/2-04.NAND.md)
 
-## [2-5. NOR Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-05.NOR.md)
+## [2-5. NOR Gate](./02_Logic_Gate/2-05.NOR.md)
 
-## [2-6. XOR Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-06.XOR.md)
+## [2-6. XOR Gate](./02_Logic_Gate/2-06.XOR.md)
 
-## [2-7. XNOR Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-07.XNOR.md)
+## [2-7. XNOR Gate](./02_Logic_Gate/2-07.XNOR.md)
 
-## [2-8. Buffer](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-08.Buffer.md)
+## [2-8. Buffer](./02_Logic_Gate/2-08.Buffer.md)
 
-## [2-9. 3 input AND Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-09.AND3.md)
+## [2-9. 3 input AND Gate](./02_Logic_Gate/2-09.AND3.md)
 
-## [2-10. 3 input OR Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-10.OR3.md)
+## [2-10. 3 input OR Gate](./02_Logic_Gate/2-10.OR3.md)
 
-## [2-11. 3 input XOR Gate](https://github.com/hanback-lab/SACT/blob/main/02_Logic_Gate/2-11.XOR3.md)
+## [2-11. 3 input XOR Gate](./02_Logic_Gate/2-11.XOR3.md)

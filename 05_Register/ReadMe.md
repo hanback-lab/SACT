@@ -6,10 +6,10 @@
 이 장에서는 레지스터의 여러 가지 형태에 데이터가 저장되는 방법과 저장된 데이터가 레지스터에서 출력되는 방법에 대한 설명을 하고 있다. 
 
 
-## [5-1. PIPO](https://github.com/hanback-lab/SACT/blob/main/05_Register/5-1.PIPO.md)
+## [5-1. PIPO](./05_Register/5-1.PIPO.md)
 
-## [5-2. SISO](https://github.com/hanback-lab/SACT/blob/main/05_Register/5-2.SISO.md)
+## [5-2. SISO](./05_Register/5-2.SISO.md)
 
-## [5-3. PISO](https://github.com/hanback-lab/SACT/blob/main/05_Register/5-3.PISO.md)
+## [5-3. PISO](./05_Register/5-3.PISO.md)
 
-## [5-4. PISO](https://github.com/hanback-lab/SACT/blob/main/05_Register/5-4.SIPO.md)
+## [5-4. PISO](./05_Register/5-4.SIPO.md)
