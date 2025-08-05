@@ -343,20 +343,3 @@ CS가 0일 때, WR의 신호에 의해서 DAC_D7 ~ DAC_D0의 데이터가 Analog
 
 <BR>
  
-### 8. Assistance Block
-
-- x86 계열의 PC와 7인치 모니터, Camera로 구성됨.
-    
-- 7인치 TFT LCD를 통해 수업 내용 표시		
-
-<img src="./pds/SACT12.png" alt="sact12" style="width: 60%;">
-
-<BR>
-
-
-- Camera를 통한 AI 실험 데모
-
-<img src="./pds/SACT13.png" alt="sact13" style="width: 60%;">
-        
-
-
