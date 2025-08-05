@@ -221,7 +221,7 @@ Text LCD의 회로에서 Character의 3번 핀에 연결된 Pull-up 저항과 Pu
 
 |HARDWARE|LCD_D[7]|LCD_D[6]|LCD_D[5]|LCD_D[4]|
 |:-:|:-:|:-:|:-:|:-:|
-|PIN NUMBER|J5|J6|L6|M1|
+|PIN NUMBER|J5|J3|L6|M1|
 
 |HARDWARE|LCD_D[3]|LCD_D[2]|LCD_D[1]|LCD_D[0]|
 |:-:|:-:|:-:|:-:|:-:|
@@ -279,13 +279,18 @@ Digital 데이터를 0 ~ 5V의 Analog 출력으로 바꾸는 Digital to Analog C
 
 CS가 0일 때, WR의 신호에 의해서 DAC_D7 ~ DAC_D0의 데이터가 Analog Data로 변경되어 출력되며, 이 출력은 Voltage Meter에 연결되어 출력의 크기가 LED로 나타난다. 
 
-|HARDWARE|ADC_CLK|ADC_OTR|ADC_D11|ADC_D10|ADC_D9|ADC_D8|ADC_D7|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|PIN NUMBER|B6|A6|G7|F7|E7|D7|C7|
+|HARDWARE|DAC_CS|DAC_LDACN|DAC_WR|
+|:-:|:-:|:-:|:-:|
+|PIN NUMBER|A9|E9|F10|
 
-|HARDWARE|ADC_D6|ADC_D5|ADC_D4|ADC_D3|ADC_D2|ADC_D1|ADC_D0|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|PIN NUMBER|B7|A7|F8|E8|D8|C8|B8|
+|HARDWARE|DAC_D7|DAC_D6|DAC_D5|DAC_D4|
+|:-:|:-:|:-:|:-:|:-:|
+|PIN NUMBER|D10|C10|B10|A10|
+
+|HARDWARE|DAC_D3|DAC_D2|DAC_D1|DAC_D0|
+|:-:|:-:|:-:|:-:|:-:|
+|PIN NUMBER|F11|E11|E12|F13|
+<BR><BR>
 
 #### (4) Voltage meter : 0 ~ +5V, Display LED 10ea
 
