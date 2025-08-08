@@ -346,5 +346,42 @@ CS가 0일 때, WR의 신호에 의해서 DAC_D7 ~ DAC_D0의 데이터가 Analog
 |PIN NUMBER|Y14|W14|V14|
 
 
+## Assistance Block
+
+- x86 계열의 PC와 7인치 모니터, Camera로 구성됨.
+        
+- 7인치 TFT LCD를 통해 수업 내용 표시		
+
+<img src="./pds/SACT12.png" alt="sact12" style="width: 60%;">
+
+
+- Programmable Logic Device와 Assistance Block 연계 동작을 위한 Camera 데모
+
+<img src="./pds/SACT13.png" alt="sact13" style="width: 60%;">
+
+
+TFT LCD에 표시된 아이콘 중 CAMERA 아이콘을 누르면, 아래의 핀 설정에 따라 CAMERA에서 받은 이미지를 변환하여 TFT LCD에 표시된다. 
+
+Programmable Logic Device에서 제어 신호를 보내어 Assitance Block의 PC가 이를 받아 Camera의 이미지를 처리하는 방식으로 구성되어 있다. 
+
+<br>
+
+|PC1|PC0||CAMERA DISPLAY MODE|
+|:-:|:-:|:-:|:-:|
+|0|0||NOT DISPLAY|
+|0|1||RGB Mode|
+|1|0||RGB Mode|
+|1|1||Canny Mode|
+
+
+<br>
+
+위 신호를 주기 위한 핀 번호는 아래와 같다.
+
+|PORT NAME|PC1|PC0|
+|:-:|:-:|:-:|
+|PIN NUMBER|T17|T19|
+
+
 <BR>
  
