@@ -101,7 +101,7 @@
 <img src="./pds/tra05.png" alt="traffic" style="width: 70%;"><br>
 
 
-CROSS는 차도의 신호등을 의미하고, WALK는 인도의 신호등을 의미한다. . 
+CROSS는 차도의 신호등을 의미하고, WALK는 횡단보도의 신호등을 의미한다. . 
 
 |1|2|3|4|
 |:-:|:-:|:-:|:-:|
@@ -117,7 +117,7 @@ CROSS는 차도의 신호등을 의미하고, WALK는 인도의 신호등을 의
 |RED|YELLOW|LEFT|GREEN|
 |-|-|-|-|
 
-인도의 신호등은 아래와 같이 2개의 신호등으로 구성되어 있다. 
+횡단보도의 신호등은 아래와 같이 2개의 신호등으로 구성되어 있다. 
 
 <img src="./pds/tra03a.png" alt="traffic" style="width: 25%;"><br>
 |GREEN|RED|
