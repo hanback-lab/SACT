@@ -246,15 +246,15 @@ Step Motor는 일반 I/O로는 제어하기 힘들 정도로 전류를 소모해
 ### 6. AD/DA Convertor
 
 #### (1) ADC : Parallel 8-bit, Sampling Speed 1MHz
-#### (2) AD In : Volume Resistor(0 - +5V)
+#### (2) AD In : Volume Resistor(0-+5V)
 
 <img src="./pds/adc01.png" alt="sact05" style="width: 30%;"><br>
 
 <img src="./pds/adc02.png" alt="sact05" style="width: 60%;">
 
-0 - 5V 사이의 Analog IN 값을 Digital Data로 바꾸는 Analog to Digital Convertor이다. 
+0-5V 사이의 Analog IN 값을 Digital Data로 바꾸는 Analog to Digital Convertor이다. 
 
-장비에서 사용하는 Sampling Speed는 최대 1MHz이며, ADC_CLK의 입력을 받으면 AD In(Volume Resistor)의 0 - 5V 데이터가 ADC_D11 - ADC_D0까지 12비트로 데이터가 출력된다. 
+장비에서 사용하는 Sampling Speed는 최대 1MHz이며, ADC_CLK의 입력을 받으면 AD In(Volume Resistor)의 0-5V 데이터가 ADC_D11-ADC_D0까지 12비트로 데이터가 출력된다. 
 
 자세한 사항은 사용된 ADC의 DATASHEET를 참고하기 바란다. 
 
@@ -273,11 +273,11 @@ Step Motor는 일반 I/O로는 제어하기 힘들 정도로 전류를 소모해
 
 <img src="./pds/dac02.png" alt="sact05" style="width: 60%;">
 
-Digital 데이터를 0 - 5V의 Analog 출력으로 바꾸는 Digital to Analog Convertor이다. 
+Digital 데이터를 0-5V의 Analog 출력으로 바꾸는 Digital to Analog Convertor이다. 
 
 장비에서 사용하는 Sampling Speed는 최대 500kHz이다. 
 
-CS가 0일 때, WR의 신호에 의해서 DAC_D7 - DAC_D0의 데이터가 Analog Data로 변경되어 출력되며, 이 출력은 Voltage Meter에 연결되어 출력의 크기가 LED로 나타난다. 
+CS가 0일 때, WR의 신호에 의해서 DAC_D7-DAC_D0의 데이터가 Analog Data로 변경되어 출력되며, 이 출력은 Voltage Meter에 연결되어 출력의 크기가 LED로 나타난다. 
 
 |HARDWARE|DAC_CS|DAC_LDACN|DAC_WR|
 |:-:|:-:|:-:|:-:|
@@ -292,11 +292,11 @@ CS가 0일 때, WR의 신호에 의해서 DAC_D7 - DAC_D0의 데이터가 Analog
 |PIN NUMBER|F11|E11|E12|F13|
 <BR><BR>
 
-#### (4) Voltage meter : 0 - +5V, Display LED 10ea
+#### (4) Voltage meter : 0-+5V, Display LED 10ea
 
 <img src="./pds/vm01.png" alt="sact05" style="width: 30%;"><br>
 
-앞의 DAC의 출력 결과를 확인할 수 있는 장치로, 0 - 5V의 Analog 출력을 LED 10개로 출력되도록 구성되어 있다. 
+앞의 DAC의 출력 결과를 확인할 수 있는 장치로, 0-5V의 Analog 출력을 LED 10개로 출력되도록 구성되어 있다. 
 
 ### 7. Application Block
 
