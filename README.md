@@ -1,4 +1,4 @@
-# 반도체 응용 회로 실습 장비 SACT
+# SACT(Semiconductor Application Circuit Training Equipment)
 ---
  
 

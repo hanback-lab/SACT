@@ -193,7 +193,9 @@ LED는 위의 회로도에서 보는 것과 같이 각각의 LED가 시리얼 �
 
 <img src="./pds/seg02.png" alt="sact05" style="width: 60%;">
 
-회로는 일반 LED와 동일하며, 단지 하나의 Full Color LED 칩에 Red, Green, Blue의 색이 모두 들어 있기 때문에 일반 LED의 2핀이 아닌 6핀으로 구성되어 있다. 일반 LED와 마찬가지로 저항을 통해서 전류를 제어하도록 구성되어 있다. 
+4 Digit의 7-Segment이다. 
+
+8개의 데이터 라인이 공통으로 사용되며, Segment의 Common 단자를 제어하여 표시하는 위치를 제어할 수 있게 되어 있다. 
 
 |HARDWARE|SEG_COM[7]|SEG_COM[6]|SEG_COM[5]|SEG_COM[4]|
 |:-:|:-:|:-:|:-:|:-:|
