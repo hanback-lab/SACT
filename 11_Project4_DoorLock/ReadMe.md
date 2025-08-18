@@ -54,7 +54,7 @@ SACT 장비에서 사용하는 장치는 다음과 같다.
 |HARDWARE|KEYPAD_C[2]|KEYPAD_C[1]|KEYPAD_C[0]|
 
 |PORT NAME|SET|RESET|ENTER|
-|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |HARDWARE|S7|SW7|SW6|
 
 |PORT NAME|CHK_OK|CHK_ERROR|BUZZER|
