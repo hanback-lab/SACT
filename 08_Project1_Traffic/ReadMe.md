@@ -129,6 +129,7 @@ CROSS는 차도의 신호등을 의미하고, WALK는 횡단보도의 신호등�
 
 - NORTH
 <BR>
+
     |Location|Port Name|Description|
     |:-:|:-|:-|
     |1|N_C_G|NORTH CROSS GREEN|
@@ -140,6 +141,7 @@ CROSS는 차도의 신호등을 의미하고, WALK는 횡단보도의 신호등�
 
 - EAST
 <BR>
+
     |Location|Port Name|Description|
     |:-:|:-|:-|
     |2|E_C_G|EAST CROSS GREEN|
@@ -151,6 +153,7 @@ CROSS는 차도의 신호등을 의미하고, WALK는 횡단보도의 신호등�
 
 - SOUTH
 <BR>
+
     |Location|Port Name|Description|
     |:-:|:-|:-|
     |3|S_C_G|SOUTH CROSS GREEN|
@@ -162,6 +165,7 @@ CROSS는 차도의 신호등을 의미하고, WALK는 횡단보도의 신호등�
 
 - WEST
 <BR>
+
     |Location|Port Name|Description|
     |:-:|:-|:-|
     |4|W_C_G|WEST CROSS GREEN|
