@@ -129,47 +129,58 @@ CROSS는 차도의 신호등을 의미하고, WALK는 횡단보도의 신호등�
 
 - NORTH
 <BR>
-    |Location|Port Name|Description|
-    |:-:|:-|:-|
-    |1|N_C_G|NORTH CROSS GREEN|
-    |1|N_C_L|NORTH CROSS GREEN LEFT|
-    |1|N_C_Y|NORTH CROSS YELLOW|
-    |1|N_C_R|NORTH CROSS RED|
-    |5|N_W_G|NORTH WALKING GREEN|
-    |5|N_W_R|NORTH WALKING RED|
+
+|Location|Port Name|Description|
+|:-:|:-|:-|
+|1|N_C_G|NORTH CROSS GREEN|
+|1|N_C_L|NORTH CROSS GREEN LEFT|
+|1|N_C_Y|NORTH CROSS YELLOW|
+|1|N_C_R|NORTH CROSS RED|
+|5|N_W_G|NORTH WALKING GREEN|
+|5|N_W_R|NORTH WALKING RED|
+
 <BR>
+
 - EAST
+<br>
+
+|Location|Port Name|Description|
+|:-:|:-|:-|
+|2|E_C_G|EAST CROSS GREEN|
+|2|E_C_L|EAST CROSS GREEN LEFT|
+|2|E_C_Y|EAST CROSS YELLOW|
+|2|E_C_R|EAST CROSS RED|
+|6|E_W_G|EAST WALKING GREEN|
+|6|E_W_R|EAST WALKING RED|
+
 <BR>
-    |Location|Port Name|Description|
-    |:-:|:-|:-|
-    |2|E_C_G|EAST CROSS GREEN|
-    |2|E_C_L|EAST CROSS GREEN LEFT|
-    |2|E_C_Y|EAST CROSS YELLOW|
-    |2|E_C_R|EAST CROSS RED|
-    |6|E_W_G|EAST WALKING GREEN|
-    |6|E_W_R|EAST WALKING RED|
-<BR>
+
 - SOUTH
+
 <BR>
-    |Location|Port Name|Description|
-    |:-:|:-|:-|
-    |3|S_C_G|SOUTH CROSS GREEN|
-    |3|S_C_L|SOUTH CROSS GREEN LEFT|
-    |3|S_C_Y|SOUTH CROSS YELLOW|
-    |3|S_C_R|SOUTH CROSS RED|
-    |7|S_W_G|SOUTH WALKING GREEN|
-    |7|S_W_R|SOUTH WALKING RED|
+
+|Location|Port Name|Description|
+|:-:|:-|:-|
+|3|S_C_G|SOUTH CROSS GREEN|
+|3|S_C_L|SOUTH CROSS GREEN LEFT|
+|3|S_C_Y|SOUTH CROSS YELLOW|
+|3|S_C_R|SOUTH CROSS RED|
+|7|S_W_G|SOUTH WALKING GREEN|
+|7|S_W_R|SOUTH WALKING RED|
+
 <BR>
+
 - WEST
 <BR>
-    |Location|Port Name|Description|
-    |:-:|:-|:-|
-    |4|W_C_G|WEST CROSS GREEN|
-    |4|W_C_L|WEST CROSS GREEN LEFT|
-    |4|W_C_Y|WEST CROSS YELLOW|
-    |4|W_C_R|WEST CROSS RED|
-    |8|W_W_G|WEST WALKING GREEN|
-    |8|W_W_R|WEST WALKING RED|
+
+|Location|Port Name|Description|
+|:-:|:-|:-|
+|4|W_C_G|WEST CROSS GREEN|
+|4|W_C_L|WEST CROSS GREEN LEFT|
+|4|W_C_Y|WEST CROSS YELLOW|
+|4|W_C_R|WEST CROSS RED|
+|8|W_W_G|WEST WALKING GREEN|
+|8|W_W_R|WEST WALKING RED|
 
 <BR>
 
