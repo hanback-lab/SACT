@@ -174,7 +174,7 @@ CROSS는 차도의 신호등을 의미하고, WALK는 횡단보도의 신호등�
 <BR>
 
 |Location|Port Name|Description|
-|:-:|:-|:-|
+|:-:|:-:|:-:|
 |4|W_C_G|WEST CROSS GREEN|
 |4|W_C_L|WEST CROSS GREEN LEFT|
 |4|W_C_Y|WEST CROSS YELLOW|
