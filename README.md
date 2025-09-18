@@ -22,7 +22,7 @@
 
 ## [Chapter 8. Project-Traffic Light](./08_Project1_Traffic/ReadMe.md)
 
-## [Chapter 9. Project-Calcualtor](./09_Project2_Calculator/ReadMe.md)
+## [Chapter 9. Project-Calculator](./09_Project2_Calculator/ReadMe.md)
 
 ## [Chapter 10. Project-Watch](./10_Project3_Watch/ReadMe.md)
 

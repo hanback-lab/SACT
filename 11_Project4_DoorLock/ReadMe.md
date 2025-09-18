@@ -88,5 +88,7 @@ SACT 장비에서 사용하는 장치는 다음과 같다.
 
 ## [11-2. 4bit 4 Shift Register](./11-2.Shift_Register.md)
 
-## [11-3. DoorLock Controller](./11-4.DoorLock_Controlelr.md)
+## [11-4. 8 x 1 4bit MUX](./11-3.MUX8X1.md)
+
+## [11-4. DoorLock Controller](./11-4.DoorLock_Controller.md)
 
